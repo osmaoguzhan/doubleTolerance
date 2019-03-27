@@ -25,3 +25,5 @@ public class NewClass {
         return 0;
 }
 }
+
+//return value: 1
